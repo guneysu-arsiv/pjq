@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "May Baker",
+    "email": "maybaker@bitrex.com"
+  },
+  {
+    "id": 1,
+    "name": "Brandy Richmond",
+    "email": "brandyrichmond@bitrex.com"
+  },
+  {
+    "id": 2,
+    "name": "Benson Stanton",
+    "email": "bensonstanton@bitrex.com"
+  },
+  {
+    "id": 3,
+    "name": "Karla Roth",
+    "email": "karlaroth@bitrex.com"
+  },
+  {
+    "id": 4,
+    "name": "Lydia Santos",
+    "email": "lydiasantos@bitrex.com"
+  },
+  {
+    "id": 5,
+    "name": "Maldonado Salazar",
+    "email": "maldonadosalazar@bitrex.com"
+  }
+]

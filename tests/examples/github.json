@@ -1,0 +1,80 @@
+{
+  "sha": "1740fd036dc6ab464ef0937a0f3fc81618886837",
+  "commit": {
+    "author": {
+      "name": "Nicolas Williams",
+      "email": "nico@cryptonector.com",
+      "date": "2016-01-18T20:58:58Z"
+    },
+    "committer": {
+      "name": "Nicolas Williams",
+      "email": "nico@cryptonector.com",
+      "date": "2016-01-19T06:19:24Z"
+    },
+    "message": "Travis-CI build for OSX (fix #1083)",
+    "tree": {
+      "sha": "0ce1811d6b8697177a9e29fdf05520305e118f75",
+      "url": "https://api.github.com/repos/stedolan/jq/git/trees/0ce1811d6b8697177a9e29fdf05520305e118f75"
+    },
+    "url": "https://api.github.com/repos/stedolan/jq/git/commits/1740fd036dc6ab464ef0937a0f3fc81618886837",
+    "comment_count": 0
+  },
+  "url": "https://api.github.com/repos/stedolan/jq/commits/1740fd036dc6ab464ef0937a0f3fc81618886837",
+  "html_url": "https://github.com/stedolan/jq/commit/1740fd036dc6ab464ef0937a0f3fc81618886837",
+  "comments_url": "https://api.github.com/repos/stedolan/jq/commits/1740fd036dc6ab464ef0937a0f3fc81618886837/comments",
+  "author": {
+    "login": "nicowilliams",
+    "id": 604851,
+    "avatar_url": "https://avatars.githubusercontent.com/u/604851?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nicowilliams",
+    "html_url": "https://github.com/nicowilliams",
+    "followers_url": "https://api.github.com/users/nicowilliams/followers",
+    "following_url": "https://api.github.com/users/nicowilliams/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nicowilliams/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nicowilliams/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nicowilliams/subscriptions",
+    "organizations_url": "https://api.github.com/users/nicowilliams/orgs",
+    "repos_url": "https://api.github.com/users/nicowilliams/repos",
+    "events_url": "https://api.github.com/users/nicowilliams/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nicowilliams/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "nicowilliams",
+    "id": 604851,
+    "avatar_url": "https://avatars.githubusercontent.com/u/604851?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nicowilliams",
+    "html_url": "https://github.com/nicowilliams",
+    "followers_url": "https://api.github.com/users/nicowilliams/followers",
+    "following_url": "https://api.github.com/users/nicowilliams/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nicowilliams/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nicowilliams/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nicowilliams/subscriptions",
+    "organizations_url": "https://api.github.com/users/nicowilliams/orgs",
+    "repos_url": "https://api.github.com/users/nicowilliams/repos",
+    "events_url": "https://api.github.com/users/nicowilliams/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nicowilliams/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "6c635998f8b5c8402c4954fcea740db09e77d541",
+      "url": "https://api.github.com/repos/stedolan/jq/commits/6c635998f8b5c8402c4954fcea740db09e77d541",
+      "html_url": "https://github.com/stedolan/jq/commit/6c635998f8b5c8402c4954fcea740db09e77d541"
+    },
+    {
+      "sha": "1",
+      "url": "https://api.github.com/repos/stedolan/jq/commits/1",
+      "html_url": "https://github.com/stedolan/jq/commit/1"
+    },
+    {
+      "sha": "2",
+      "url": "https://api.github.com/repos/stedolan/jq/commits/2",
+      "html_url": "https://github.com/stedolan/jq/commit/2"
+    }
+  ]
+}

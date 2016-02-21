@@ -1,0 +1,5 @@
+#!/usr/bin/env
+# coding: utf-8
+import pjq.__main__
+if __name__ == '__main__':
+    pjq.__main__.main()
