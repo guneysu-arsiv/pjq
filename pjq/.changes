@@ -1,0 +1,3 @@
+changelog: CHANGELOG.md
+gh_token: !!python/unicode '0fd13f4922f84be548e7f7f79363decea0be6350'
+readme: README.md
