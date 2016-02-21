@@ -1,2 +1,0 @@
-# pjq
-python json parser
