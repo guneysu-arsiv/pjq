@@ -2,7 +2,7 @@
 # coding=utf-8
 """Python Json Query Syntax that works not only in CLI but also as a lib."""
 
-__version__ = '0.0.2-dev3'
+__version__ = '0.0.2-dev4'
 __url__ = 'https://github.com/guneysus/pjq'
 __author__ = 'Ahmed Seref GUNEYSU'
 __email__ = 'serefguneysu@gmail.com'
